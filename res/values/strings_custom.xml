@@ -96,7 +96,7 @@
     <string name="end_time_title">End</string>
 
     <!-- ROM control -->
-    <string name="rom_control_title">ROMControl</string>
+    <string name="rom_control_title">VUControl</string>
 
     <!-- Themes settings  -->
     <string name="themes_settings_title">Themer</string>
