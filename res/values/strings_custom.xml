@@ -177,8 +177,5 @@
     <string name="volume_steps_ring_title">Volume steps: Ringer</string>
     <string name="volume_steps_system_title">Volume steps: System</string>
     <string name="volume_steps_voice_call_title">Volume steps: Voice Call</string>
-    
-    <!-- Title for the accessibility preference to home button to answers a call. [CHAR LIMIT=35] -->
-    <string name="accessibility_home_button_answers_call_prerefence_title">Home button answers call</string>
 
 </resources>
